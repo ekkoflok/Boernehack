@@ -1,19 +1,16 @@
 /*
-  For Loop Iteration
+  For Loop and blink
 
   Demonstrates the use of a for() loop.
-  Lights multiple LEDs in sequence, then in reverse.
+  Blinks an LED with the spacing between each blink going from slow to fast to slow to...
 
   The circuit:
-  - LEDs from pins 2 through 7 to ground
+  - Built in LED, pin 13
 
-  created 2006
-  by David A. Mellis
-  modified 30 Aug 2011
-  by Tom Igoe
+  created 2017
+  by Valdemar Kristensen
 
-  This example code is in the public domain.
-
+  Based on this example:
   http://www.arduino.cc/en/Tutorial/ForLoop
 */
 
